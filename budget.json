@@ -1,31 +1,32 @@
 {
-    "my_monthly_budget": [
-        {
-            "title": "Rent", 
-            "budget": 465
-        },
-        {
-            "title": "Groceries",
-            "budget": 100
-        },  
-        {
-            "title": "Dine out",
-            "budget": 50
-        },
-        {
-            "title": "Shopping",
-            "budget": 50
-        },
-        {
-            "title" : "Mobile recharge",
-            "budget" : 25
-        },
-        {
-            "title" : "Utilities",
-            "budget" : 100
-        },
-        {
-            "title" : "Savings",
-            "budget" : 250
-        }
-]}
+  "myBudget": [
+    {
+      "title": "Eat out",
+      "budget": 100
+    },
+    {
+      "title": "Rent",
+      "budget": 130
+    },
+    {
+      "title": "Grocery",
+      "budget": 60
+    },
+    {
+      "title": "stationery",
+      "budget": 40
+    },
+    {
+      "title": "traveling",
+      "budget": 30
+    },
+    {
+      "title": "Communication",
+      "budget": 80
+    },
+    {
+      "title": "Vacation",
+      "budget": 40
+    }
+  ]
+}
